@@ -11,10 +11,10 @@ The application is built using **HTML5, CSS3, and Vanilla JavaScript**, with cli
 ## 🚀 Live Demo
 
 **Live Website:**
-`Add your deployed Netlify/Vercel URL here`
+https://ai-career-path-spa.netlify.app/
 
 **GitHub Repository:**
-`Add your GitHub repository URL here`
+https://github.com/ParminderKaur568/AI-Career-Path-SPA
 
 ---
 
